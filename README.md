@@ -14,7 +14,7 @@
 - [ ] Применить теги, можно и нужно эксперементировать с тегами, добавлять новые:
 
   - header, main, section, footer
-  - div, img, h1, h2, h3, a, p
+  🗸 div, img, h1, h2, h3, a, p
   - hr, form, label, input, button
   - ul, li, details, summary
   ***
