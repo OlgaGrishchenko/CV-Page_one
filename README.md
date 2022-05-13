@@ -3,7 +3,7 @@
 ## Task 1 ##
 ---
 
-- [x] Сверстать страницу CV [My CV page](https://olgagrishchenko.github.io/CV-Page_one/)
+- [x] Сверстать страницу CV [My CV page](https://olgagrishchenko.github.io/CV-Page/)
 - [x] Выложить её на github-pages
 - [x] Заполнить README.md с описанием проекта
 - [x] В README.md прикрепить ссылку на ваш готовый сайт
