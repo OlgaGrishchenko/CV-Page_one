@@ -5,8 +5,8 @@
 
 - [x] Сверстать страницу CV [My CV page](https://olgagrishchenko.github.io/CV-Page_one/)
 - [x] Выложить её на github-pages
-- [ ] Заполнить README.md с описанием проекта
-- [ ] В README.md прикрепить ссылку на ваш готовый сайт
+- [x] Заполнить README.md с описанием проекта
+- [x] В README.md прикрепить ссылку на ваш готовый сайт
 
 ### Notes: ###
 ---
